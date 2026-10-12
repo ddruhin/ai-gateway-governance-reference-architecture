@@ -132,3 +132,6 @@ Connect with me on LI - https://www.linkedin.com/in/druhin-dhavala/
 Git - ddruhin
 
 Substack - [Druhin Dhavala](https://substack.com/@druhindhavala)
+
+
+📩 **[Looking to connect? View my official Contact Profile.](Contact.md)**
